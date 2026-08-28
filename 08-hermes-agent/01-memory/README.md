@@ -23,7 +23,7 @@
 │   ├── tools/
 │   │   └── memory_tool.py             # MemoryStore：frozen snapshot + live entries
 │   ├── agent/
-│   │   ├── memory_provider.py         # MemoryProvider ABC（外部/内置 Provider 接口）
+│   │   ├── memory_provider.py         # MemoryProvider ABC（外部/内置 Provider 接口）wzy：mem0；supermemory
 │   │   ├── memory_manager.py          # 编排层；同时只允许一个外部 Provider
 │   │   ├── context_compressor.py      # Context 压缩（唯一允许改上下文的路径）
 │   │   ├── conversation_compression.py# 会话级压缩辅助 / 触发逻辑
