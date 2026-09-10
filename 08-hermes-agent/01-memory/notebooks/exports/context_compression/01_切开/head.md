@@ -1,7 +1,5 @@
 # head（protect head）
 
-> = messages[:protect_first_n]。当前 protect_first_n=3，因此含 system + 首轮问答，**多于** system_prompt。
-
 - 条数: 3
 - roles: ['system', 'user', 'assistant']
 

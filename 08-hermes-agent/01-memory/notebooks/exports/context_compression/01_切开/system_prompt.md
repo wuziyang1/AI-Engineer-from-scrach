@@ -1,6 +1,6 @@
 # system prompt
 
-> head 的**第一块**；`head.md` 在此之外还会包含前几轮对话。
+> 属于 **head**；不进 middle，不被摘要改写。
 
 ## MEMORY
 - 用户叫 Julie，在上海，想转 AI Agent Engineer

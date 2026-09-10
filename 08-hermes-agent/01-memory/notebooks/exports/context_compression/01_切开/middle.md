@@ -2,6 +2,7 @@
 
 - 条数: 12
 - roles: ['user', 'assistant', 'user', 'assistant', 'user', 'assistant', 'user', 'assistant', 'user', 'assistant', 'user', 'assistant']
+- 粗估 tokens: 596
 
 ===== [3] role=user =====
 那摘要插回去之后，模型会不会把摘要里的旧问题又答一遍？我怕它把「前情提要」当成当前任务。
